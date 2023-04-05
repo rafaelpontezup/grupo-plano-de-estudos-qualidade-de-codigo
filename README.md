@@ -8,7 +8,7 @@ Aqui estudaremos sobre temas que consideramos importantes para qualquer desenvol
 
 A ideia é que ao fim desta jornada de aprendizado você se sinta (mais) confortável com os temas abordados no plano de estudos 🥳
 
-### Como devo estudar? Nossa jornada em semanas...
+## Como devo estudar? Nossa jornada em semanas...
 
 Não se preocupa que é aqui que vamos te ajudar 🥳
 
@@ -27,7 +27,7 @@ Como temos 4 semanas de estudos e aprendizado pela frente com toda atenção do 
 
 Por se tratar de uma sugestão, você não necessariamente precisa concluir os tópicos dentro das semanas indicadas, ou seja, não há problemas um tópico ser consumido entre as semanas, o importante é manter um ritmo bacana de estudos e aprendizado 😊
 
-### Tenho dúvidas, e agora?
+## Tenho dúvidas, e agora?
 
 Caso tenha dúvidas, sugestões ou qualquer dificuldade durante sua jornada, você pode recorrer aos seguintes meios de comunicação:
 
@@ -35,7 +35,7 @@ Caso tenha dúvidas, sugestões ou qualquer dificuldade durante sua jornada, voc
 2. **Chat da Google**: usaremos este chat para nos mantermos conectados e para tirar dúvidas rápidas e problemas pontuais;
 3. **Chat com monitor(a) do grupo**: sinta-se a vontade para falar diretamente com seu monitor(a), basta abrir um papo com ele ou ela;
 
-### Pronto! Bora começar?
+## Pronto! Bora começar?
 
 Menos papo e mais ação!! 😎😎
 
