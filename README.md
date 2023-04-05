@@ -32,8 +32,8 @@ Por se tratar de uma sugestão, você não necessariamente precisa concluir os t
 Caso tenha dúvidas, sugestões ou qualquer dificuldade durante sua jornada, você pode recorrer aos seguintes meios de comunicação:
 
 1. [**Discussions** no Github](https://github.com/rafaelpontezup/grupo-plano-de-estudos-qualidade-de-codigo/discussions): priorizamos este fórum de discussão por ele ser aberto e fácil de navegar;
-2. **Chat da Google**: usaremos este chat para nos mantermos conectados e para tirar dúvidas rápidas e problemas pontuais;
-3. **Chat com monitor(a) do grupo**: sinta-se a vontade para falar diretamente com seu monitor(a), basta abrir um papo com ele ou ela;
+2. **Chat da Google**: usaremos o espaço "[Grupo de estudos: Design e qualidade de código](https://chat.google.com/room/AAAAYF6wvU8?cls=4)" para nos mantermos conectados e para tirar dúvidas rápidas ou problemas pontuais;
+3. **Chat com monitor(a) do grupo**: sinta-se a vontade para falar diretamente com o monitor(a) da turma, rafael.ponte@zup.com.br, basta abrir um papo com ele ou ela;
 
 ## Pronto! Bora começar?
 
