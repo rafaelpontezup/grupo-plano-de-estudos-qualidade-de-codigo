@@ -112,7 +112,7 @@ Esta é uma boa oportunidade para revisitarmos alguns patterns populares e tenta
 
 ## 3. SOLID: ou como juntar OO e design patterns na mesma panela
 
-Além dos design patterns que estudamos no tópico anterior, existe um conjunto 5 principios foram apresentados por Robert C. Martin (Uncle Bob) há +20 anos atrás para ajudar desenvolvedores(as) a escrever código que seja fácil de entender e fácil de mudar. Mais tarde, estes principios ficaram conhecidos pelo acronimo SOLID.
+Além dos design patterns que estudamos no tópico anterior, existe um conjunto de 5 principios que foram apresentados por Robert C. Martin (Uncle Bob) há +20 anos atrás para ajudar desenvolvedores(as) a escrever código que seja fácil de entender e fácil de mudar. Mais tarde, estes principios ficaram conhecidos pelo acronimo SOLID.
 
 A ideia do SOLID é tirar ainda mais proveito da orientação a objetos a fim de resolver problemas comuns relacionados a código em projetos de software. Na Zup Edu gostamos de pensar que **SOLID discute, extrai e aponta o melhor do Polimorfismo na OO, o que nos permite entender o real poder desse pilar de forma isolada e em termos de arquitetura de código**. Por esse motivo, se você aprendeu bem sobre OO com conteúdo que curamos até aqui então com toda certeza você se sentirá bastante confortável nos estudos de SOLID.
 
