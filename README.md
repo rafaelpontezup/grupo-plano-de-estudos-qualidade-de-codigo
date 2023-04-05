@@ -18,7 +18,7 @@ Maaaasssss...
 
 Para maximizar suas chances de aprendizado individual e em grupo, afinal somos um grupo de estudos, nós da Zup Edu temos uma recomendação que pode ser interessante para você: **dividir os temas nas semanas para mantermos um ritmo sustentável**.
 
-Como temos 4 semanas de estudos e aprendizado pela frente com toda atenção do grupo e suporte do monitor(a), nós entendemos que cada semana pode ser dividida da seguinte forma: 
+Como temos 4 semanas de estudos e aprendizado pela frente e toda atenção do grupo e suporte do monitor(a), nós entendemos que cada semana pode ser dividida da seguinte forma: 
 
 1. Semana 1: [Orientação a objetos e técnicas de design de código](/plano-de-estudos-sobre-design-e-qualidade-codigo.md#1-orienta%C3%A7%C3%A3o-a-objetos-e-t%C3%A9cnicas-de-design-de-c%C3%B3digo)
 2. Semana 2: [Revisitando Design Patterns](/plano-de-estudos-sobre-design-e-qualidade-codigo.md#2-revisitando-design-patterns)
