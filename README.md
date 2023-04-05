@@ -16,7 +16,7 @@ Você é livre para acessar o [plano de estudos completo](/plano-de-estudos-sobr
 
 Maaaasssss...
 
-Para maximizar suas chances de aprendizado individual e em grupo, afinal somos um grupo de estudos, nós da Zup Edu temos uma recomendação que pode ser interessante para você: dividir os temas nas semanas para mantermos um ritmo sustentável.
+Para maximizar suas chances de aprendizado individual e em grupo, afinal somos um grupo de estudos, nós da Zup Edu temos uma recomendação que pode ser interessante para você: **dividir os temas nas semanas para mantermos um ritmo sustentável**.
 
 Como temos 4 semanas de estudos e aprendizado pela frente com toda atenção do grupo e suporte do monitor(a), nós entendemos que cada semana pode ser dividida da seguinte forma: 
 
