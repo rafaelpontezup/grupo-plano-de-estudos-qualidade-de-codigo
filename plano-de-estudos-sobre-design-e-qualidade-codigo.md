@@ -1,6 +1,6 @@
 # Plano de estudos sobre Design e Qualidade de Código
 
-Se 80% do que você faz no dia a dia como desenvolvedor(a) é ler e escrever código, então nada mais justo do que investir no seu aprendizado sobre como escrever código de qualidade. Neste plano de estudos vamos navegar por diversos conceitos, técnicas, dicas de design e tradeoffs ao escrever código que seja fácil de ler e entender, simples de manter a médio-longo prazo e flexível o suficiente para ser evoluído mitigando a complexidade acidental.
+Se 80% do que você faz no dia a dia como desenvolvedor(a) é ler e escrever código, então nada mais justo do que investir no seu aprendizado sobre como desenhar e escrever código de qualidade. Neste plano de estudos vamos navegar por diversos conceitos, técnicas, dicas de design e tradeoffs ao escrever código que seja fácil de ler e entender, simples de manter a médio-longo prazo e flexível o suficiente para ser evoluído mitigando a complexidade acidental.
 
 Para isso, vamos estudar orientação a objetos, técnicas e conceitos de programação pragmática, design patterns e alguns estilos arquiteturais para organizar e estruturar nosso código. Focaremos na linguagem Java, mas boa parte do que veremos são conceitos do paradigma orientado a objetos que podem ser facilmente aplicados com outras linguagens e plataformas.
 
