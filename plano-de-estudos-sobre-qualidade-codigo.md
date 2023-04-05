@@ -1,4 +1,4 @@
-# Plano de estudos sobre Qualidade de Código
+# Plano de estudos sobre Design e Qualidade de Código
 
 Se 80% do que você faz no dia a dia como desenvolvedor(a) é ler e escrever código, então nada mais justo do que investir no seu aprendizado sobre como escrever código de qualidade. Neste plano de estudos vamos navegar por diversos conceitos, técnicas, dicas de design e tradeoffs ao escrever código que seja fácil de ler e entender, simples de manter a médio-longo prazo e flexível o suficiente para ser evoluído mitigando a complexidade acidental.
 
