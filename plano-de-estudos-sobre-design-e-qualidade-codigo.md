@@ -17,7 +17,7 @@ Ao fim desse plano de estudos, você terá heuristicas úteis que te ajudarão a
 
 Por algum motivo nos convenceram que orientação a objetos é algo simples, mas a verdade é que não é. Ao estudar sobre o conteúdo que curamos aqui você vai entender que o **cerne da OO se baseia em manter estado e comportamentos juntos**. Quanto mais cedo você entender isso mais facilmente você saberá como encapsulamento, polimorfismo e composição se encaixam no seu design.
 
-Junto a OO, também estudaremos algumas técnicas que irão te guiar no dia a dia para escrever código mais enxuto, fléxivel e de fácil manutenção. E, por fim, você também vai aprender como especialistas usam todos estes conceitos e técnicas no dia a dia através de heurísticas que vão te colocar noutro patamar na hora de escrever, refatorar e revisão código.
+Junto a OO, também estudaremos algumas técnicas que irão te guiar no dia a dia para escrever código mais enxuto, fléxivel e de fácil manutenção. E, por fim, você também vai aprender como especialistas usam todos estes conceitos e técnicas no dia a dia através de heurísticas que vão te colocar noutro patamar na hora de escrever, refatorar e revisar código.
 
 ### 1.1. Conteúdo teórico
 
