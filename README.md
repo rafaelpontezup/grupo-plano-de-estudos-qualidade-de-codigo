@@ -42,7 +42,7 @@ Menos papo e mais ação!! 😎😎
 Se você estiver neste grupo de estudos então certamente você recebeu ou receberá um email de boas vindas, invites para as sessões sincronas na sua agenda e também será adicionado(a) ao grupo no Chat do Google.
 
 > ⚠️ **Não recebeu nada disso?** 😱😱 <br/>
-> Por favor, entre em contato com zupedu@zup.com.br e já manda a sua letra!
+> Por favor, entre em contato com zupedu@zup.com.br ou monitor(a) desse grupo e já manda a sua letra!
 
 
 Enfim, agora vamos arregaçar as mangas, sentar e estudar sobre design e qualidade de código 👊🏻👊🏻
