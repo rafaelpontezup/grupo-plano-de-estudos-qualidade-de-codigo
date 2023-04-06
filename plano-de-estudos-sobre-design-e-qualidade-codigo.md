@@ -62,18 +62,27 @@ Junto a OO, também estudaremos algumas técnicas que irão te guiar no dia a di
 
 ### 1.2. Como posso me avaliar?
 
-Agora que você já se sente mais confortável com OO e as técnicas discutidas até aqui, que tal olhar para seu projeto atual e identificar trechos de código com grande potencial de melhoria de qualidade?
+Agora que você já se sente mais confortável com OO e as técnicas de design de código discutidas até aqui, vamos validar nosso conhecimento através de atividades práticas 💪🏻
+
+#### **❓Atividade 1**:
+
+Que tal olhar para seu projeto atual e identificar trechos de código com grande potencial de melhoria de qualidade?
 
 É isso mesmo, é hora de refatorar código 🥳🥳
 
-**❓Atividade**:
 Para cada trecho de código que você identificar no seu projeto, faça:
 
-- a) se possível, refatore o código do projeto e submeta uma PR para revisão; aproveite e discuta com seu time sobre as motivações do seu refactoring e os pontos positivos que você enxega;
-- b) crie [Gists](https://gist.github.com/) com a versão de antes e depois da refatoração, compartilhe-os durante nossos encontros e compartilhe com o monitor da sua turma para melhor feedback;
+- a) Se possível, refatore o código do projeto e submeta uma PR para revisão; aproveite e discuta com seu time sobre as motivações do seu refactoring e os pontos positivos que você enxega;
+- b) Crie [Gists](https://gist.github.com/) com a versão de antes e depois da refatoração, e por fim compartilhe-os no [nosso forum do Github](https://github.com/rafaelpontezup/grupo-plano-de-estudos-qualidade-de-codigo/discussions) para melhor feedback e discussões; 
 
 >⚠️ **Privacidade e confidencialidade**<br/>
 > Lembre-se dos cuidados ao compartilhar código fora da empresa, **crie Gists privados** na sua conta da Zup no Github, evite expor dados sensíveis do seu projeto e compartilhe somente com Zuppers.
+
+#### **❓Atividade 2**:
+
+Por fim, se você ainda não fez nossa avaliação [**Knowledge about Object-Oriented Design**](https://hr.gs/badge-knowledge-about-object-oriented-design) ou se não obteve êxito nela, essa é uma excelente oportunidade para (re)fazê-la.
+
+[Acesse o link da avaliação](https://hr.gs/badge-knowledge-about-object-oriented-design) e valide seus conhecimentos sobre design de código orientado a objetos! 🎯 
 
 ## 2. Revisitando Design Patterns
 
@@ -108,7 +117,20 @@ Esta é uma boa oportunidade para revisitarmos alguns patterns populares e tenta
 
 ### 2.2. Como posso me avaliar?
 
-**❓Atividade**: Em construção
+Hora de validar nosso conhecimento sobre design patterns, mas desta vez vamos exercitar nossa habilidade de escrever artigos a fim de ajudar outros desenvolvedores(as) dentro e fora da Zup 💪🏻
+
+#### **❓Atividade 1**:
+
+Escreva um artigo sobre Loan Design Pattern para ajudar seu time a conhecer melhor este padrão de projeto, os tipos de problemas que ele resolve e como identificar oportunidades de aplicá-lo.
+
+>⚠️ **Lembre-se de compartilhar seu artigo**<br/>
+> Você pode escrever o artigo onde você achar melhor (como Gist, Google Docs, blog pessoal etc), o importante é que você consiga compartilhá-lo com nossa turma e monitor através de um link público no [nosso forum do Github](https://github.com/rafaelpontezup/grupo-plano-de-estudos-qualidade-de-codigo/discussions) 😊
+
+#### **❓Atividade 2**:
+
+Por fim, se você ainda não fez nossa avaliação [**Knowledge about Design Patterns**](https://hr.gs/badge-knowledge-about-design-patterns) ou se não obteve êxito nela, essa é uma excelente oportunidade para (re)fazê-la.
+
+[Acesse o link da avaliação](https://hr.gs/badge-knowledge-about-design-patterns) e valide seus conhecimentos sobre os principais e mais utilizados design patterns no mercado! 🎯
 
 ## 3. SOLID: ou como juntar OO e design patterns na mesma panela
 
@@ -132,7 +154,24 @@ Por fim, vale a pena refletirmos sobre SOLID de uma maneira mais crítica, afina
 10. [Que tal contrapontos? 😈 Livro SOLID is not SOLID - David Bryant Copeland](https://solid-is-not-solid.com/) (3-6h)
 
 ### 3.2. Como posso me avaliar?
-**❓Atividade**: Em construção
+
+Mais uma rodada para validarmos nosso conhecimento e fortalecer as conexões do que estudamos.
+
+#### **❓Atividade 1**:
+
+Aqui temos 2 possibilidades de tarefas, **escolha a que achar mais interessante para exercitar seu aprendizado** (mas se quiser você pode fazer as duas 😎):
+
+- a) Se possível, encontre um trecho de código no seu atual projeto e refatore-o aplicando algum dos principios SOLID. Em seguida, crie um [Gist](https://gist.github.com/) com a versão de antes e depois da refatoração, e compartilhe-o no [nosso fórum do Github](https://github.com/rafaelpontezup/grupo-plano-de-estudos-qualidade-de-codigo/discussions);
+- b) Escolha um dos principios SOLID e escreva um artigo sobre ele de tal forma que um desenvolvedor(a) junior possa utiliza-lo como fonte de aprendizado. Aqui é importante ser didático e apresentar bons exemplos de código;
+
+>⚠️ **Lembre-se de compartilhar seu artigo**<br/>
+> Você pode escrever o artigo onde você achar melhor (como Gist, Google Docs, blog pessoal etc), o importante é que você consiga compartilhá-lo com nossa turma e monitor através de um link público no [nosso forum do Github](https://github.com/rafaelpontezup/grupo-plano-de-estudos-qualidade-de-codigo/discussions) 😊
+
+#### **❓Atividade 2**:
+
+Por fim, se você ainda não fez nossa avaliação [**Knowledge about SOLID Design Principles**](https://hr.gs/badge-knowledge-about-solid-design-principles) ou se não obteve êxito nela, essa é uma excelente oportunidade para (re)fazê-la.
+
+[Acesse o link da avaliação](https://hr.gs/badge-knowledge-about-solid-design-principles) e valide seus conhecimentos sobre os principios de design SOLID! 🎯
 
 ## 4. Design e arquitetura de código
 
@@ -159,5 +198,26 @@ Será que depois de todo conhecimento e aprendizado sobre OO, design patterns e 
     - 3.4. [Discussão entre especialistas no Spaces do Twitter sobre “Clean Arch morreu?” 🤯😈](https://twitter.com/alex_aquiles/status/1557105442723172354) (1h32min)
 
 ### 4.2. Como posso me avaliar?
-**❓Atividade**: Em construção
+
+Essa atividade vai exigir um pouco mais de você, mas com certeza vai te ajudar a solidificar o que estudamos sobre estilos arquiteturais e vai te dar "pano pra manga" para discutir com sua turma, monitor e, quem sabe, até com seu time 😈
+
+#### **❓Atividade 1**:
+
+Crie um novo projeto de microsserviço onde você consiga aplicar o estilo arquitetural Package by Feature. A ideia é você escrever esse serviço aplicando este estilo arquitetural e poder enxergar os prós e contras com outros estilos arquiteturais mais rebuscados. 
+
+Para melhor proveito dessa atividade, é obrigatório que seu serviço possua no minimo 2 features. Melhor ainda se ele contiver 3 ou 4 features, assim você pode praticar mais e reforçar o aprendizado 💪🏻
+
+Lembre-se de compartilhar o projeto no [nosso fórum do Github](https://github.com/rafaelpontezup/grupo-plano-de-estudos-qualidade-de-codigo/discussions) para feedback e possíveis discussões!
+
+#### **❓Atividade 2**:
+
+Se você ainda não fez nossa avaliação [**Knowledge about Hexagonal Architecture**](https://hr.gs/badge-knowledge-about-hexagonal-architecture) ou se não obteve êxito nela, essa é uma excelente oportunidade para (re)fazê-la.
+
+[Acesse o link da avaliação](https://hr.gs/badge-knowledge-about-hexagonal-architecture) e valide seus conhecimentos sobre Arquitetura Hexagonal! 🎯
+
+#### **❓Atividade 3**:
+
+Por fim, se você ainda não fez nossa avaliação [**Knowledge about Clean Architecture**](https://hr.gs/badge-knowledge-about-clean-architecture) ou se não obteve êxito nela, essa é uma excelente oportunidade para (re)fazê-la.
+
+[Acesse o link da avaliação](https://hr.gs/badge-knowledge-about-clean-architecture) e valide seus conhecimentos sobre Arquitetura Limpa! 🎯
 
