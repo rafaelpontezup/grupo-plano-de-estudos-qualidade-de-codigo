@@ -147,11 +147,12 @@ Por fim, vale a pena refletirmos sobre SOLID de uma maneira mais crítica, afina
 3. [SOLID Principles: melhorando o design do seu código](https://www.zup.com.br/blog/design-principle-solid) (10min)
 4. [SOLID para devs de alta performance](https://www.zup.com.br/blog/solid-devs-de-alta-performance) (15min)
 5. [SOLID: Programação Orientada a Objetos](https://www.zup.com.br/webinars/webinar-solid-programacao-orientacao-a-objetos) (1h)
-6. [The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) (20min)
-7. [Solid Relevance](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html) (15min)
-8. [Livro Desbravando SOLID - Alexandre Aquiles](https://www.casadocodigo.com.br/products/livro-desbravando-solid) (4-6h)
-9. [Livro Orientação a Objetos e SOLID para Ninjas - Mauricio Aniche](https://www.casadocodigo.com.br/products/livro-oo-solid) (4-6h)
-10. [Que tal contrapontos? 😈 Livro SOLID is not SOLID - David Bryant Copeland](https://solid-is-not-solid.com/) (3-6h)
+6. [Why SOLID principles are still the foundation for modern software architecture](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/) (12min)
+7. [The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) (20min)
+8. [Solid Relevance](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html) (15min)
+9. [Livro Desbravando SOLID - Alexandre Aquiles](https://www.casadocodigo.com.br/products/livro-desbravando-solid) (4-6h)
+10. [Livro Orientação a Objetos e SOLID para Ninjas - Mauricio Aniche](https://www.casadocodigo.com.br/products/livro-oo-solid) (4-6h)
+11. [Que tal contrapontos? 😈 Livro SOLID is not SOLID - David Bryant Copeland](https://solid-is-not-solid.com/) (3-6h)
 
 ### 3.2. Como posso me avaliar?
 
