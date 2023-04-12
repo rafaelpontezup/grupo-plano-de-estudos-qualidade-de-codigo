@@ -24,7 +24,7 @@ Junto a OO, também estudaremos algumas técnicas que irão te guiar no dia a di
 1. Orientação a Objetos
     - 1.1. [Introdução: Programação Orientada a Objetos e programação estruturada](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos) (10min)
     - 1.2. [Objetos não são atributos + funções 🤯](https://web.archive.org/web/20150605222727/http://blog.fragmental.com.br/2008/05/18/objetos-nao-sao-atributos-funcoes/trackback/index.html) (7min)
-    - 1.3. [Como não aprender Java e Orientação a Objetos: getters e setters](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos) (10min)
+    - 1.3. [Como não aprender Java e Orientação a Objetos: getters e setters](https://www.alura.com.br/artigos/nao-aprender-oo-getters-e-setters) (10min)
     - 1.4. [Como não aprender orientação a objetos: Herança](https://www.alura.com.br/artigos/como-nao-aprender-orientacao-a-objetos-heranca) (12min)
     - 1.5. [Como não aprender orientação a objetos: o excesso de ifs](https://www.alura.com.br/artigos/como-nao-aprender-orientacao-a-objetos-o-excesso-de-ifs) (10min)
     - 1.6. [Fantoches](https://web.archive.org/web/20140713021108/http://fragmental.com.br/wiki/index.php/Fantoches.html) (8min)
