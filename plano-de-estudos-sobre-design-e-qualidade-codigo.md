@@ -197,6 +197,7 @@ Será que depois de todo conhecimento e aprendizado sobre OO, design patterns e 
     - 3.2. [Package by feature, not layer](http://www.javapractices.com/topic/TopicAction.do?Id=205) (10min)
     - 3.3. [Package by Layer vs Package by Feature](https://medium.com/sahibinden-technology/package-by-layer-vs-package-by-feature-7e89cde2ae3a) (15min)
     - 3.4. [Discussão entre especialistas no Spaces do Twitter sobre “Clean Arch morreu?” 🤯😈](https://twitter.com/alex_aquiles/status/1557105442723172354) (1h32min)
+    - 3.5. [Overengineering in Clean/Onion/Hexagonal Architectures 🤯](https://victorrentea.ro/blog/overengineering-in-onion-hexagonal-architectures/) (15min)
 
 ### 4.2. Como posso me avaliar?
 
